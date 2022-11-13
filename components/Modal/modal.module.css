@@ -19,11 +19,12 @@
   max-height: 90vh;
   max-width: 80vw;
   min-height: 400px;
+  background-color: white;
 }
 .column {
   display: flex;
   flex-direction: column;
-  background-color: "var(--background-color)";
+  background-color: var(--background-color);
   flex-grow: 1;
   flex-shrink: 1;
 }

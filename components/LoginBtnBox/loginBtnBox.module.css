@@ -20,7 +20,7 @@
   border-color: rgba(0, 0, 0, 0);
 }
 .login > div {
-  color: "var(--background-color)";
+  color: var(--background-color);
 }
 .reg > div {
   color: var(--text-color);

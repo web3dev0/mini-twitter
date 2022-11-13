@@ -35,5 +35,5 @@
   line-height: 19px;
   font-weight: 700;
   font-size: 14px;
-  color: "var(--background-color)";
+  color: var(--background-color);
 }

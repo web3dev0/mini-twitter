@@ -69,7 +69,7 @@ export default function LoginFooter() {
   }
   return (
     <>
-      {/* <Footer onRegClick={onRegClick} onLoginClick={onLoginClick} /> */}
+      <Footer onRegClick={onRegClick} onLoginClick={onLoginClick} />
       <Modal isOpen={isOpen} toggle={toggle}>
         {currPanel === PanelType.Login && (
           <LoginPanel

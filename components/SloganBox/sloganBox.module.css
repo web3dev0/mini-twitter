@@ -8,13 +8,13 @@
   font-weight: 700;
   font-size: 23px;
   line-height: 28px;
-  color: "var(--background-color)";
+  color: var(--background-color);
 }
 .describe {
   line-height: 20px;
   font-size: 15px;
   font-weight: 400;
-  color: "var(--background-color)";
+  color: var(--background-color);
 }
 
 @media screen and (max-width: 688px) {

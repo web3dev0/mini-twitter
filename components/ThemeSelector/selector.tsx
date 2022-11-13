@@ -1,6 +1,7 @@
 import { useLayoutEffect } from "react";
 
 import styles from "./selector.module.css";
+import { useAuth } from "../../hooks/useAuth";
 
 import React, { useState } from "react";
 export enum Theme {
@@ -41,6 +42,8 @@ const selectedSvg = (
 );
 
 export default function Selector() {
+  const { user: currentUser } = useAuth();
+
   const [currentTheme, setCurrentTheme] = useState<Theme>(Theme.light);
 
   useLayoutEffect(() => {
@@ -52,6 +55,9 @@ export default function Selector() {
     }
   }, [currentTheme]);
 
+  if (!currentUser) {
+    return <></>;
+  }
   return (
     <div className={styles.container}>
       <div
