@@ -8,7 +8,6 @@ export default function Nav() {
         <div className={styles.row}>
           <div>
             <svg
-              className="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e"
               aria-hidden="true"
               viewBox="0 0 24 24"
               style={{
@@ -37,7 +36,6 @@ export default function Nav() {
         <div className={styles.row}>
           <div>
             <svg
-              className="r-18jsvk2 r-4qtqp9 r-yyyyoo r-lwhw9o r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-cnnz9e"
               aria-hidden="true"
               viewBox="0 0 24 24"
               style={{

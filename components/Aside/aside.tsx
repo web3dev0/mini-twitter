@@ -92,7 +92,6 @@ export default function Aside() {
           >
             <div
               aria-label="Trending"
-              tabIndex="0"
               style={{
                 border: "0px solid black",
                 margin: "0px",
@@ -226,7 +225,6 @@ export default function Aside() {
                         <form
                           action="#"
                           aria-label="Search Twitter"
-                          role="search"
                           style={{
                             flex: "1 1 0%",
                             borderStyle: "solid",
@@ -454,7 +452,6 @@ export default function Aside() {
                                           autoCapitalize="sentences"
                                           autoCorrect="off"
                                           dir="auto"
-                                          role="combobox"
                                           style={{
                                             padding: "11px",
                                             borderWidth: "0px",
@@ -596,7 +593,6 @@ export default function Aside() {
                   >
                     <section
                       aria-labelledby="accessible-list-2"
-                      role="region"
                       style={{
                         border: "0px solid black",
                         margin: "0px",
@@ -617,10 +613,6 @@ export default function Aside() {
                       }}
                     >
                       <h1
-                        id="accessible-list-2"
-                        aria-level="1"
-                        dir="auto"
-                        role="heading"
                         style={{
                           listStyle: "none",
                           textDecoration: "none",
@@ -646,7 +638,6 @@ export default function Aside() {
                         Trending now
                       </h1>
                       <div
-                        aria-label="Timeline: Trending now"
                         style={{
                           border: "0px solid black",
                           margin: "0px",
@@ -776,8 +767,6 @@ export default function Aside() {
                                 }}
                               >
                                 <h2
-                                  aria-level="2"
-                                  role="heading"
                                   style={{
                                     font: "inherit",
                                     listStyle: "none",
@@ -963,8 +952,6 @@ export default function Aside() {
                               }}
                             >
                               <div
-                                role="link"
-                                tabIndex="0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -1433,8 +1420,6 @@ export default function Aside() {
                             >
                               <div
                                 aria-labelledby="id__fs2dmluu0sm"
-                                role="link"
-                                tabIndex="0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -1633,8 +1618,6 @@ export default function Aside() {
                                         aria-expanded="false"
                                         aria-haspopup="menu"
                                         aria-label="More"
-                                        role="button"
-                                        tabIndex="0"
                                         style={{
                                           cursor: "pointer",
                                           border: "0px solid black",
@@ -1807,8 +1790,6 @@ export default function Aside() {
                             >
                               <div
                                 aria-labelledby="id__vwtdrjnagk"
-                                role="link"
-                                tabIndex="0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -2046,8 +2027,6 @@ export default function Aside() {
                                         aria-expanded="false"
                                         aria-haspopup="menu"
                                         aria-label="More"
-                                        role="button"
-                                        tabIndex="0"
                                         style={{
                                           cursor: "pointer",
                                           border: "0px solid black",
@@ -2219,8 +2198,6 @@ export default function Aside() {
                               }}
                             >
                               <div
-                                role="link"
-                                tabIndex="0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -2688,8 +2665,6 @@ export default function Aside() {
                               }}
                             >
                               <div
-                                role="link"
-                                tabIndex="0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -3159,7 +3134,6 @@ export default function Aside() {
                             >
                               <a
                                 href="#?"
-                                role="link"
                                 style={{
                                   font: "inherit",
                                   listStyle: "none",
@@ -3289,7 +3263,6 @@ export default function Aside() {
                   >
                     <aside
                       aria-label="Who to follow"
-                      role="complementary"
                       style={{
                         border: "0px solid black",
                         margin: "0px",
@@ -3337,8 +3310,6 @@ export default function Aside() {
                         }}
                       >
                         <h2
-                          aria-level="2"
-                          role="heading"
                           style={{
                             font: "inherit",
                             listStyle: "none",
@@ -3480,8 +3451,6 @@ export default function Aside() {
                         }}
                       >
                         <div
-                          role="button"
-                          tabIndex="0"
                           style={{
                             cursor: "pointer",
                             border: "0px solid black",
@@ -3688,8 +3657,6 @@ export default function Aside() {
                                           <a
                                             aria-hidden="true"
                                             href="#?"
-                                            role="link"
-                                            tabIndex="-1"
                                             style={{
                                               font: "inherit",
                                               listStyle: "none",
@@ -4160,7 +4127,6 @@ export default function Aside() {
                                     >
                                       <a
                                         href="#?"
-                                        role="link"
                                         style={{
                                           font: "inherit",
                                           listStyle: "none",
@@ -4296,7 +4262,6 @@ export default function Aside() {
                                           >
                                             <svg
                                               aria-label="Verified account"
-                                              role="img"
                                               viewBox="0 0 24 24"
                                               style={{
                                                 display: "inline-block",
@@ -4362,8 +4327,6 @@ export default function Aside() {
                                       >
                                         <a
                                           href="#?"
-                                          role="link"
-                                          tabIndex="-1"
                                           style={{
                                             font: "inherit",
                                             listStyle: "none",
@@ -4486,8 +4449,6 @@ export default function Aside() {
                                   <div
                                     aria-describedby="id__1fv3eahvymk"
                                     aria-label="Follow @minlawsg"
-                                    role="button"
-                                    tabIndex="0"
                                     style={{
                                       cursor: "pointer",
                                       border: "0px solid black",
@@ -4765,8 +4726,6 @@ export default function Aside() {
                           </div>
                         </div>
                         <div
-                          role="button"
-                          tabIndex="0"
                           style={{
                             cursor: "pointer",
                             border: "0px solid black",
@@ -4973,8 +4932,6 @@ export default function Aside() {
                                           <a
                                             aria-hidden="true"
                                             href="#?"
-                                            role="link"
-                                            tabIndex="-1"
                                             style={{
                                               font: "inherit",
                                               listStyle: "none",
@@ -5445,7 +5402,6 @@ export default function Aside() {
                                     >
                                       <a
                                         href="#?"
-                                        role="link"
                                         style={{
                                           font: "inherit",
                                           listStyle: "none",
@@ -5625,8 +5581,6 @@ export default function Aside() {
                                       >
                                         <a
                                           href="#?"
-                                          role="link"
-                                          tabIndex="-1"
                                           style={{
                                             font: "inherit",
                                             listStyle: "none",
@@ -5749,8 +5703,6 @@ export default function Aside() {
                                   <div
                                     aria-describedby="id__pkavqox381h"
                                     aria-label="Follow @TeamChainShot"
-                                    role="button"
-                                    tabIndex="0"
                                     style={{
                                       cursor: "pointer",
                                       border: "0px solid black",
@@ -5876,8 +5828,6 @@ export default function Aside() {
                           </div>
                         </div>
                         <div
-                          role="button"
-                          tabIndex="0"
                           style={{
                             cursor: "pointer",
                             border: "0px solid black",
@@ -6084,8 +6034,6 @@ export default function Aside() {
                                           <a
                                             aria-hidden="true"
                                             href="#?"
-                                            role="link"
-                                            tabIndex="-1"
                                             style={{
                                               font: "inherit",
                                               listStyle: "none",
@@ -6556,7 +6504,6 @@ export default function Aside() {
                                     >
                                       <a
                                         href="#?"
-                                        role="link"
                                         style={{
                                           font: "inherit",
                                           listStyle: "none",
@@ -6692,7 +6639,6 @@ export default function Aside() {
                                           >
                                             <svg
                                               aria-label="Verified account"
-                                              role="img"
                                               viewBox="0 0 24 24"
                                               style={{
                                                 display: "inline-block",
@@ -6758,8 +6704,6 @@ export default function Aside() {
                                       >
                                         <a
                                           href="#?"
-                                          role="link"
-                                          tabIndex="-1"
                                           style={{
                                             font: "inherit",
                                             listStyle: "none",
@@ -6882,8 +6826,6 @@ export default function Aside() {
                                   <div
                                     aria-describedby="id__zdex1f5o6ls"
                                     aria-label="Follow @lopp"
-                                    role="button"
-                                    tabIndex="0"
                                     style={{
                                       cursor: "pointer",
                                       border: "0px solid black",
@@ -7011,7 +6953,6 @@ export default function Aside() {
                       </div>
                       <a
                         href="#?"
-                        role="link"
                         style={{
                           font: "inherit",
                           listStyle: "none",
@@ -7117,7 +7058,6 @@ export default function Aside() {
                 >
                   <nav
                     aria-label="Footer"
-                    role="navigation"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -7144,7 +7084,6 @@ export default function Aside() {
                       dir="auto"
                       href="#?"
                       rel="noopener noreferrer nofollow"
-                      role="link"
                       target="_blank"
                       style={{
                         listStyle: "none",
@@ -7194,7 +7133,6 @@ export default function Aside() {
                       dir="auto"
                       href="#?"
                       rel="noopener noreferrer nofollow"
-                      role="link"
                       target="_blank"
                       style={{
                         listStyle: "none",
@@ -7244,7 +7182,6 @@ export default function Aside() {
                       dir="auto"
                       href="#?"
                       rel="noopener noreferrer nofollow"
-                      role="link"
                       target="_blank"
                       style={{
                         listStyle: "none",
@@ -7294,7 +7231,6 @@ export default function Aside() {
                       dir="auto"
                       href="#?"
                       rel="noopener noreferrer nofollow"
-                      role="link"
                       target="_blank"
                       style={{
                         listStyle: "none",
@@ -7344,7 +7280,6 @@ export default function Aside() {
                       dir="auto"
                       href="#?"
                       rel="noopener noreferrer nofollow"
-                      role="link"
                       target="_blank"
                       style={{
                         listStyle: "none",
@@ -7394,8 +7329,6 @@ export default function Aside() {
                       aria-expanded="false"
                       aria-haspopup="menu"
                       aria-label="More"
-                      role="button"
-                      tabIndex="0"
                       style={{
                         cursor: "pointer",
                         border: "0px solid black",

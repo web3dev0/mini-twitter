@@ -129,7 +129,6 @@ export default function Home() {
                 }}
               >
                 <div
-                  className="css-1dbjc4n r-aqfbo4 r-gtdqiz r-1gn8etr r-1g40b8q"
                   style={{
                     border: "0px solid black",
                     margin: "0px",
@@ -152,7 +151,6 @@ export default function Home() {
                   }}
                 >
                   <div
-                    className="css-1dbjc4n"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -173,7 +171,6 @@ export default function Home() {
                     }}
                   >
                     <div
-                      className="css-1dbjc4n r-1loqt21 r-136ojw6"
                       style={{
                         border: "0px solid black",
                         margin: "0px",
@@ -195,7 +192,6 @@ export default function Home() {
                       }}
                     >
                       <div
-                        className="css-1dbjc4n r-1iud8zs r-136ojw6"
                         style={{
                           border: "0px solid black",
                           margin: "0px",
@@ -217,7 +213,6 @@ export default function Home() {
                         }}
                       >
                         <div
-                          className="css-1dbjc4n"
                           style={{
                             border: "0px solid black",
                             margin: "0px",
@@ -238,7 +233,6 @@ export default function Home() {
                           }}
                         >
                           <div
-                            className="css-1dbjc4n r-1e5uvyk r-6026j r-1iud8zs"
                             style={{
                               border: "0px solid black",
                               margin: "0px",
@@ -262,7 +256,6 @@ export default function Home() {
                             }}
                           >
                             <div
-                              className="css-1dbjc4n r-1awozwy r-18u37iz r-1iud8zs r-1777fci r-1jgb5lz r-sb58tz r-1j3t67a r-13qz1uu"
                               style={{
                                 border: "0px solid black",
                                 margin: "0px",
@@ -292,7 +285,6 @@ export default function Home() {
                               }}
                             >
                               <div
-                                className="css-1dbjc4n r-16y2uox r-1wbh5a2 r-1pi2tsx r-1777fci"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -318,7 +310,6 @@ export default function Home() {
                                 }}
                               >
                                 <div
-                                  className="css-1dbjc4n r-1habvwh"
                                   style={{
                                     border: "0px solid black",
                                     margin: "0px",
@@ -339,10 +330,7 @@ export default function Home() {
                                   }}
                                 >
                                   <h2
-                                    className="css-4rbku5 css-901oao css-1hf3ou5 r-18jsvk2 r-37j5jr r-1b6yd1w r-b88u0q r-7ptqe7 r-bcqeeo r-1vvnge1 r-qvutc0"
-                                    aria-level="2"
                                     dir="auto"
-                                    role="heading"
                                     style={{
                                       listStyle: "none",
                                       textDecoration: "none",
@@ -371,7 +359,6 @@ export default function Home() {
                                     }}
                                   >
                                     <span
-                                      className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"
                                       style={{
                                         border: "0px solid black",
                                         margin: "0px",
@@ -392,7 +379,6 @@ export default function Home() {
                                 </div>
                               </div>
                               <div
-                                className="css-1dbjc4n r-obd0qt r-1pz39u2 r-1777fci r-1vsu8ta r-2j7rtt"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -416,12 +402,9 @@ export default function Home() {
                                 }}
                               >
                                 <div
-                                  className="css-18t94o4 css-1dbjc4n r-1niwhzg r-42olwf r-sdzlij r-1phboty r-rs99b7 r-1ii58gl r-25kp3t r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr"
                                   aria-expanded="false"
                                   aria-haspopup="menu"
                                   aria-label="Top Tweets on"
-                                  role="button"
-                                  tabIndex="0"
                                   style={{
                                     cursor: "pointer",
                                     border: "0px solid black",
@@ -454,7 +437,6 @@ export default function Home() {
                                   }}
                                 >
                                   <div
-                                    className="css-901oao r-1awozwy r-18jsvk2 r-6koalj r-18u37iz r-16y2uox r-37j5jr r-1b43r93 r-b88u0q r-1777fci r-hjklzo r-bcqeeo r-q4m81j r-qvutc0"
                                     dir="auto"
                                     style={{
                                       border: "0px solid black",
@@ -485,7 +467,6 @@ export default function Home() {
                                     }}
                                   >
                                     <svg
-                                      className="r-18jsvk2 r-4qtqp9 r-yyyyoo r-1yevf0r r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-meisx5"
                                       aria-hidden="true"
                                       viewBox="0 0 24 24"
                                       style={{
@@ -505,7 +486,6 @@ export default function Home() {
                                       </g>
                                     </svg>
                                     <span
-                                      className="css-901oao css-16my406 css-1hf3ou5 r-poiln3 r-1b43r93 r-hjklzo r-bcqeeo r-qvutc0"
                                       style={{
                                         border: "0px solid black",
                                         margin: "0px",
@@ -537,7 +517,6 @@ export default function Home() {
                     </div>
                   </div>
                   <div
-                    className="css-1dbjc4n r-633pao r-u8s1d r-dkhcqf r-axxi2z r-18jm5s1 r-13qz1uu r-1wyyakw"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -564,7 +543,6 @@ export default function Home() {
                     }}
                   >
                     <div
-                      className="css-1dbjc4n r-1awozwy"
                       style={{
                         border: "0px solid black",
                         margin: "0px",
@@ -585,8 +563,6 @@ export default function Home() {
                       }}
                     >
                       <div
-                        className="css-1dbjc4n r-orgf3d r-1lul07w r-eafdt9 r-1b8bd59 r-nx0j10"
-                        role="status"
                         style={{
                           border: "0px solid black",
                           margin: "0px",
@@ -613,11 +589,8 @@ export default function Home() {
                         }}
                       >
                         <div
-                          className="css-18t94o4 css-1dbjc4n r-l5o3uw r-sdzlij r-y3da5r r-1777fci r-vpgt9t r-1ny4l3l r-1j3t67a r-o7ynqc r-6416eg"
                           aria-hidden="true"
                           aria-label="New Tweets are available. Push period to go to the beginning of your timeline and view them"
-                          role="button"
-                          tabIndex="-1"
                           style={{
                             cursor: "pointer",
                             border: "0px solid black",
@@ -652,7 +625,6 @@ export default function Home() {
                           }}
                         >
                           <div
-                            className="css-1dbjc4n r-18u37iz r-oyd9sg"
                             style={{
                               border: "0px solid black",
                               margin: "0px",
@@ -675,7 +647,6 @@ export default function Home() {
                             }}
                           >
                             <svg
-                              className="r-1kihuf0 r-jwli3a r-4qtqp9 r-yyyyoo r-1xvli5t r-1d4mawv r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-meisx5"
                               aria-hidden="true"
                               viewBox="0 0 24 24"
                               style={{
@@ -697,7 +668,6 @@ export default function Home() {
                               </g>
                             </svg>
                             <div
-                              className="css-901oao css-1hf3ou5 r-1kihuf0 r-jwli3a r-37j5jr r-1b43r93 r-16dba41 r-hjklzo r-bcqeeo r-qvutc0"
                               dir="auto"
                               style={{
                                 border: "0px solid black",
@@ -722,7 +692,6 @@ export default function Home() {
                               }}
                             >
                               <span
-                                className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"
                                 style={{
                                   border: "0px solid black",
                                   margin: "0px",
@@ -747,7 +716,6 @@ export default function Home() {
                   </div>
                 </div>
                 <div
-                  className="css-1dbjc4n r-orgf3d r-633pao"
                   style={{
                     border: "0px solid black",
                     margin: "0px",
@@ -771,7 +739,6 @@ export default function Home() {
                   }}
                 />
                 <div
-                  className="css-1dbjc4n r-14lw9ot r-184en5c"
                   style={{
                     border: "0px solid black",
                     margin: "0px",
@@ -793,7 +760,6 @@ export default function Home() {
                   }}
                 >
                   <div
-                    className="css-1dbjc4n r-iphfwy"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -815,10 +781,6 @@ export default function Home() {
                     }}
                   >
                     <div
-                      className="css-1dbjc4n r-kicko2 r-notknq r-gfcssk r-1udh08x r-u8s1d r-lrvibr r-11j9u27 r-13qz1uu r-184en5c"
-                      aria-valuemax="100"
-                      aria-valuenow="0"
-                      role="progressbar"
                       style={{
                         border: "0px solid black",
                         margin: "0px",
@@ -846,7 +808,6 @@ export default function Home() {
                       }}
                     >
                       <div
-                        className="css-1dbjc4n r-l5o3uw r-1pi2tsx r-1joz4e6 r-11iat2r r-1c4c958 r-1wyyakw"
                         style={{
                           border: "0px solid black",
                           margin: "0px",
@@ -877,7 +838,6 @@ export default function Home() {
                   </div>
                 </div>
                 <div
-                  className="css-1dbjc4n r-1sw30gj r-109y4c4 r-1p6iasa"
                   style={{
                     border: "0px solid black",
                     margin: "0px",

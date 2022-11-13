@@ -215,7 +215,6 @@ export default function Editor() {
                         >
                           <a
                             href="#?"
-                            role="link"
                             style={{
                               font: "inherit",
                               listStyle: "none",
@@ -1086,8 +1085,6 @@ export default function Editor() {
                       >
                         <div
                           aria-disabled="true"
-                          role="button"
-                          tabIndex="-1"
                           style={{
                             border: "1px solid rgba(0, 0, 0, 0)",
                             margin: "0px 0px 0px 11px",

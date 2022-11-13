@@ -74,9 +74,7 @@ export default function RegPanel({ onSubmit }: IProps) {
             >
               <h1
                 id="modal-header"
-                aria-level="1"
                 dir="auto"
-                role="heading"
                 style={{
                   listStyle: "none",
                   textDecoration: "none",

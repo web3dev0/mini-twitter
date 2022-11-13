@@ -14,7 +14,6 @@ function Component() {
   return (
     <>
       <div
-        className="css-1dbjc4n r-x572qd r-1867qdf r-1a8r3js r-1qfz7tf r-oyd9sg"
         style={{
           border: "0px solid black",
           margin: "0px",
@@ -42,7 +41,6 @@ function Component() {
         }}
       >
         <div
-          className="css-1dbjc4n"
           style={{
             border: "0px solid black",
             margin: "0px",
@@ -63,9 +61,7 @@ function Component() {
           }}
         >
           <div
-            className="css-1dbjc4n r-18u37iz"
             aria-label="可选背景"
-            role="radiogroup"
             style={{
               border: "0px solid black",
               margin: "0px",
@@ -86,8 +82,6 @@ function Component() {
             }}
           >
             <div
-              className="css-1dbjc4n r-1awozwy r-14lw9ot r-vhj8yc r-z2wwpe r-d045u9 r-1loqt21 r-13awgt0 r-18u37iz r-1064s9p r-adacv r-1ny4l3l r-d9fdf6"
-              tabIndex="-1"
               style={{
                 border: "0px solid black",
                 padding: "0px",
@@ -117,9 +111,6 @@ function Component() {
               }}
             >
               <div
-                className="css-1dbjc4n r-1awozwy r-sdzlij r-eu3ka r-1777fci r-dxdjjy r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr r-1aockid"
-                role="radio"
-                tabIndex="-1"
                 style={{
                   border: "0px solid black",
                   margin: "0px",
@@ -151,7 +142,6 @@ function Component() {
                 }}
               >
                 <div
-                  className="css-1dbjc4n r-1awozwy r-l5o3uw r-vhj8yc r-1llaxt6 r-1phboty r-d045u9 r-z80fyv r-1777fci r-19wmn03"
                   style={{
                     border: "0px solid black",
                     margin: "0px",
@@ -181,7 +171,6 @@ function Component() {
                   }}
                 >
                   <svg
-                    className="r-jwli3a r-4qtqp9 r-yyyyoo r-1hjwoze r-dnmrzs r-bnwqim r-1plcrui r-lrvibr r-12ym1je"
                     aria-hidden="true"
                     viewBox="0 0 24 24"
                     style={{
@@ -203,7 +192,6 @@ function Component() {
                 </div>
               </div>
               <div
-                className="css-1dbjc4n r-1awozwy r-1loqt21 r-16y2uox r-1777fci r-1f6r7vd r-6e0ovw"
                 aria-hidden="true"
                 style={{
                   border: "0px solid black",
@@ -232,7 +220,6 @@ function Component() {
                 }}
               >
                 <div
-                  className="css-901oao css-1hf3ou5 r-18jsvk2 r-37j5jr r-1b43r93 r-b88u0q r-hjklzo r-bcqeeo r-qvutc0"
                   dir="auto"
                   style={{
                     border: "0px solid black",
@@ -256,7 +243,6 @@ function Component() {
                   }}
                 >
                   <span
-                    className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -276,7 +262,6 @@ function Component() {
                 </div>
               </div>
               <input
-                className="r-1p0dtai r-1ei5mc7 r-1pi2tsx r-1d2f490 r-crgep1 r-orgf3d r-t60dpp r-u8s1d r-zchlnj r-ipm5af r-13qz1uu"
                 name="background_picker_45"
                 type="radio"
                 defaultChecked
@@ -297,8 +282,6 @@ function Component() {
               />
             </div>
             <div
-              className="css-1dbjc4n r-1awozwy r-yfoy6g r-1ets6dv r-z2wwpe r-rs99b7 r-1loqt21 r-13awgt0 r-18u37iz r-1064s9p r-adacv r-1ny4l3l r-d9fdf6"
-              tabIndex="-1"
               style={{
                 border: "0px solid black",
                 padding: "0px",
@@ -328,9 +311,6 @@ function Component() {
               }}
             >
               <div
-                className="css-1dbjc4n r-1awozwy r-sdzlij r-eu3ka r-1777fci r-dxdjjy r-1ny4l3l r-o7ynqc r-6416eg r-lrvibr r-1aockid"
-                role="radio"
-                tabIndex="-1"
                 style={{
                   border: "0px solid black",
                   margin: "0px",
@@ -362,7 +342,6 @@ function Component() {
                 }}
               >
                 <div
-                  className="css-1dbjc4n r-1awozwy r-1niwhzg r-1llaxt6 r-1phboty r-d045u9 r-z80fyv r-1777fci r-19wmn03"
                   style={{
                     border: "0px solid black",
                     margin: "0px",
@@ -393,7 +372,6 @@ function Component() {
                 />
               </div>
               <div
-                className="css-1dbjc4n r-1awozwy r-1loqt21 r-16y2uox r-1777fci r-1f6r7vd r-6e0ovw"
                 aria-hidden="true"
                 style={{
                   border: "0px solid black",
@@ -422,7 +400,6 @@ function Component() {
                 }}
               >
                 <div
-                  className="css-901oao css-1hf3ou5 r-vlxjld r-37j5jr r-1b43r93 r-b88u0q r-hjklzo r-bcqeeo r-qvutc0"
                   dir="auto"
                   style={{
                     border: "0px solid black",
@@ -446,7 +423,6 @@ function Component() {
                   }}
                 >
                   <span
-                    className="css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0"
                     style={{
                       border: "0px solid black",
                       margin: "0px",
@@ -466,7 +442,6 @@ function Component() {
                 </div>
               </div>
               <input
-                className="r-1p0dtai r-1ei5mc7 r-1pi2tsx r-1d2f490 r-crgep1 r-orgf3d r-t60dpp r-u8s1d r-zchlnj r-ipm5af r-13qz1uu"
                 name="background_picker_45"
                 type="radio"
                 aria-label="暗淡"
