@@ -5,7 +5,7 @@ import styles from "./logo.module.css";
 export default function Logo() {
   return (
     <div className={styles.container}>
-      <a href="/">
+      <a href="#?">
         <div className={styles.wrapper}>
           <svg
             viewBox="0 0 24 24"
