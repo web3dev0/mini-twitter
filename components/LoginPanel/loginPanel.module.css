@@ -1,0 +1,41 @@
+.btn {
+  background-color: var(--secondary-color) !important;
+}
+
+.btn:hover {
+  background-color: var(--secondary-color-hover) !important;
+}
+
+.container {
+  display: flex;
+  flex-basis: auto;
+  flex-direction: column;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.title {
+  margin-bottom: 19px;
+  margin-top: 19px;
+}
+.title h1 {
+  text-decoration: none;
+  background-color: rgba(0, 0, 0, 0);
+  font-weight: 700;
+  color: var(--text-color);
+  font-size: 29px;
+  line-height: 34px;
+}
+.row {
+  display: flex;
+  flex-direction: column;
+  padding-bottom: 11px;
+  padding-top: 11px;
+}
+
+.notice {
+  font-weight: 400;
+  line-height: 19px;
+  font-size: 14px;
+  color: rgb(83, 100, 113);
+  margin-bottom: 23px;
+}

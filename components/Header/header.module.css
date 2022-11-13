@@ -1,0 +1,33 @@
+.container {
+  width: 275px;
+  display: flex;
+}
+.fixedPanel {
+  position: fixed;
+  top: 0px;
+  height: 100%;
+}
+.content {
+  padding-left: 12px;
+  padding-right: 12px;
+  max-width: 275px;
+  height: 100%;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+@media screen and (max-width: 1265px) {
+  .container {
+    justify-content: center;
+  }
+  .content {
+    align-items: center;
+  }
+}
+
+@media (max-width: 600px) {
+  .container {
+    display: none;
+  }
+}

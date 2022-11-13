@@ -1,0 +1,39 @@
+.btn {
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+  border-radius: 9999px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(0, 0, 0, 0);
+  padding-left: 30px;
+  padding-right: 30px;
+  user-select: "none";
+  transition-duration: 0.2s;
+  transition-property: background-color, box-shadow;
+  outline-style: none;
+  min-height: 49px;
+  min-width: 49px;
+  background-color: var(--primary-color);
+}
+.btnWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 23px;
+  margin-top: 23px;
+}
+.btn:hover {
+  background-color: var(--primary-color-hover);
+}
+
+.btn > div {
+  display: flex;
+  flex-direction: row;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+  line-height: 19px;
+  font-weight: 700;
+  font-size: 14px;
+  color: "var(--background-color)";
+}

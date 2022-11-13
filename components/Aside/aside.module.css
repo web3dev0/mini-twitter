@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  width: 350px;
+  margin-right: 10px;
+}
+@media (max-width: 988px) {
+  .container {
+    display: none;
+  }
+}
